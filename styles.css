@@ -1,0 +1,41 @@
+h1{
+    color: #AA0000;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    border: solid 1;
+}
+
+
+
+span{
+    width: 200px;
+    height: 100px;
+    margin-bottom: 10px;
+    color: white;
+    background-color: #00abae;
+    border: 1px solid blue;
+    display: block;
+}
+
+.list{
+    list-style-type: circle;
+}
+
+.box1{
+    width: 100px;
+    height: 100px;
+    background: orange;
+    float: left;
+}
+.box2{
+    width: 100px;
+    height: 100px;
+    background: pink;
+    float: left;
+}
+.box3{
+    width: 100px;
+    height: 100px;
+    background: yellow;
+    float: right;
+}
